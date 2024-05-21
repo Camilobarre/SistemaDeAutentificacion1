@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "ad2",
+      "username": "example",
+      "lastName": "example",
+      "email": "example@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "95d1",
+      "username": "Camilo",
+      "lastName": "Barreneche Escobar",
+      "email": "barrecami@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "421b",
+      "username": "Karina",
+      "lastName": "Pineda",
+      "email": "admins@riwi.io",
+      "password": "456"
+    }
+  ]
+}
